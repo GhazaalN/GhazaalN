@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhazaalN
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning C programming
+- 👀 I’m interested in Python , Java and Front-end
+- 🌱 I’m currently learning HTML & CSS
 - 📫 How to reach me ghazghaznik@gmail.com
 
 <!---
