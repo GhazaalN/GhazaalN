@@ -1,17 +1,17 @@
 # Hi, I'm Ghazaal 👋
 
-I'm an early-career developer learning by building practical projects. I'm especially interested in computer architecture, digital design, and writing small programs that make technical ideas easier to explore.
+I hold a bachelor's degree from Shiraz University. I'm interested in software development, especially web application development, and in human-computer interaction (HCI)—how thoughtful interfaces can make software easier and more intuitive to use. I enjoy learning by building practical projects.
 
-## Featured Projects
+## Selected Projects
 
-- **[16-bit ISA Processor](https://github.com/GhazaalN/16-bit-isa-processor)** — An educational 16-bit CPU built with Verilog and a custom instruction set.
+- **[HTML Basics](https://github.com/GhazaalN/html-basics)** — A small frontend project featuring a Persian, right-to-left interface.
+- **[Login Page](https://github.com/GhazaalN/login-page)** — An HTML and CSS interface built to practice page layout and styling.
 - **[Simple Assembly Simulator](https://github.com/GhazaalN/simple-assembly-simulator)** — A Python simulator for a small x86-like instruction set, registers, and CPU flags.
-- **[Linear Regression Project](https://github.com/GhazaalN/linear-regression-project)** — A machine-learning exercise exploring data preprocessing, regression, and model evaluation.
-- **[C Programming Exercises](https://github.com/GhazaalN/C-programming)** — Small C programs for practicing core programming concepts.
+- **[16-bit ISA Processor](https://github.com/GhazaalN/16-bit-isa-processor)** — An educational 16-bit CPU built with Verilog and a custom instruction set.
 
-## Areas I'm Exploring
+## Interests
 
-Verilog · Python · C/C++ · Computer Architecture · Digital Design · Frontend Development · Machine Learning
+Web application development · Software development · Human-computer interaction (HCI) · Frontend development · Python · C/C++ · Verilog
 
 ## Contact
 
